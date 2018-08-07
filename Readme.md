@@ -1,6 +1,6 @@
 # ToDo App
 
-A small demo of how can you use PyQt5 and pyrebase for to develop a todo application
+A small demo of how can you use PyQt5 and pyrebase to develop a todo application
 
 
 ## Authors
